@@ -1,0 +1,20 @@
+img{
+    
+    margin: 1.6666%;
+    width: 30%;
+    height: 20%;
+   
+}
+video{
+    margin: 1.6666%;
+    width: 30%;
+    height: 20%;
+}
+h1{
+    font-family: "Snell Roundhand", cursive;
+    text-align: center;
+    color: #3dc8f2;
+}
+*{
+    background-color: cornsilk;
+}
