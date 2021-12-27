@@ -59,3 +59,10 @@ img{
     width: 300px;
     height: 250px;
 }
+{
+    @font-face {
+    font-family: 'MC Twinkle Star';
+    font-style: normal;
+    font-weight: 400;
+    src: local('MC Twinkle Star'), url('https://fonts.cdnfonts.com/s/25232/MC Twinkle Star.woff') format('woff');
+}
